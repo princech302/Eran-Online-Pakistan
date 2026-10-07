@@ -1,0 +1,6 @@
+{
+  "name": "EarnTask",
+  "description": "Watch sponsored campaigns, complete verified tasks, and earn transparent rewards in a secure rewards marketplace.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
